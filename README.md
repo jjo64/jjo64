@@ -12,7 +12,7 @@ I am a Web Application Development student, currently in my first year of my deg
   - Java
   - MySQL
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+- ✔ Ask me about anything, I am happy to help <br>
 - Outside tech, 💜I love watching streamings on kick, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I study content about programming/technology on internet, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="josuecuevaes@gmail.com">josuecuevaes@gmail.com</a>
