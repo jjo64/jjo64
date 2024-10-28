@@ -16,7 +16,7 @@ I am a Web Application Development student, currently in my first year of my deg
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love watching streamings on kick, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 👾 Additionally, I study content about programming/technology on internet, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+- 📫 Reach out to me at: <a href="josuecuevaes@gmail.com">josuecuevaes@gmail.com</a>
 ---
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
   <br>
