@@ -67,8 +67,8 @@ I am a Web Application Development student, currently in my first year of my deg
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=jjo64&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=jjo64&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=jjo64&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jjo64)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=jjo64&theme=material-palenight)](https://github.com/jjo64)
 </div>
 
  
